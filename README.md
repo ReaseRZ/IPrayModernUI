@@ -19,7 +19,8 @@ Prayer reminder for moslem in dekstop version
 - You can download new version at here [IPrayMV v1.1.0](https://github.com/ReaseRZ/IPrayModernUI/releases/tag/v1.1.0/)
 
 for video :
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cT0sdnkYAfQ?si=VWX1-xVveJ1r582F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Software Preview](https://github.com/ReaseRZ/IPrayModernUI/assets/88366703/c5e903fa-bf9e-4076-833a-c9d03195f985)](https://youtu.be/cT0sdnkYAfQ?si=-M5y1NbayVK4amze)
+
 
 
 
