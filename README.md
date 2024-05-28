@@ -16,7 +16,7 @@ Prayer reminder for moslem in dekstop version
 # Stop Adzan Sound if needed
 ![image](https://github.com/ReaseRZ/IPrayModernUI/assets/88366703/94580ae4-ca7c-4a49-b713-84eef615cbf2)
 
-- You can download new version at here [IPrayMV v1.1.0]:https://github.com/ReaseRZ/IPrayModernUI/releases/tag/v1.1.0
+- You can download new version at here [IPrayMV v1.1.0]: https://github.com/ReaseRZ/IPrayModernUI/releases/tag/v1.1.0/
 
 
 
